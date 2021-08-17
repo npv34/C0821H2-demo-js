@@ -1,0 +1,67 @@
+/*
+ -- comment nhieu dong trong css
+ -- cu phap
+ selector {
+    ten_thuoc_tinh_css : gia_tri_thuoc_tinh
+ }
+
+ #email {
+
+ }
+
+
+ + selector: bo chon chi dinh css tac dong len phan tu html nao?
+     - id: #email -> css chi tac dong vao duy nhat 1 phan tu html
+     - class: .name_class -> css tac dong vao 1 nhom cac phan tu chung css
+     - ten the html: -> anh huong den toan bo cac the cung ten
++ do uu tien: id -> class -> ten_the
+ */
+
+#email {
+
+}
+
+.input-user {
+
+}
+
+input {
+
+}
+
+label {
+    color: red;
+}
+
+#label-email {
+    color: black;
+}
+
+table {
+    width: 400px;
+    background-color: beige;
+    border-collapse: collapse;
+}
+
+tr:hover {
+    background-color: red;
+}
+
+.delete-button {
+    background-color: red;
+    color: white;
+}
+
+tr {
+    height: 30px;
+}
+
+.am {
+    background-color: red;
+    color: white;
+}
+
+.duong {
+    background-color: aquamarine;
+
+}
